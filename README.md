@@ -10,7 +10,6 @@ Skills: Python | R Programming | HTML | CSS | JavaScript | Flask
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yash161101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-shah161101//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_yaaaashh_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dataphrase.github.io/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash161101&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash161101&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash161101)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash161101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
