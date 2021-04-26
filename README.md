@@ -1,4 +1,4 @@
-### Hello, World! 👋, Yash this side.
+## Hello, World! 👋, Yash this side.
 #### Data Science Student.
 
 Skills: Python | R Programming | HTML | CSS | JavaScript | Flask 
