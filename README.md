@@ -9,7 +9,7 @@
 
 #### Connect with Me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yash161101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-shah161101//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_yaaaashh_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dataphrase.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yash161101)  [<img src="https://img.icons8.com/officel/16/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-shah161101//)  [<img src="https://img.icons8.com/cute-clipart/64/fa314a/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_yaaaashh_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dataphrase.github.io/)  
 
 #### Languages and Tools:
 
