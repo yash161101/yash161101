@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Financial Data Science**.
 - 📫 How to reach me: yash161101@gmail.com
-- 📐 I am also a passionate **Graphic Designer**.
+- 📐 I am also a passionate **Graphic Designer**
 - ⚡ Funfact: Big time **MCU** fan
 
 #### Connect with Me:
