@@ -1,8 +1,7 @@
-## Hello, World! 👋, Yash this side.
+## Hello, World! 👋, This is Yash
 #### Data Science Student.
 
 - 📫 How to reach me: yash161101@gmail.com
-- ⚡ Funfact: Big time **Manchester United** fan.
 
 #### Connect with Me:
 
